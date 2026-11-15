@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
-</p>
 
+</p>
 
 <div dir="rtl" align="right">
 
@@ -223,7 +222,7 @@ To add a peripheral:
 
 When editing existing peripherals, cross-check EVT demo code and the latest datasheet, use [openwch](https://github.com/openwch) as a reference, and ensure changes do not break [ch32-hal](https://github.com/ch32-rs/ch32-hal).
 
-Submit Issues and Pull Requests to the upstream data repository:  
+Submit Issues and Pull Requests to the upstream data repository:
 https://github.com/ch32-rs/ch32-data
 
 ## License
@@ -250,9 +249,11 @@ The following MES SVG assets are included for consistent repository branding:
 
 ## تهیه و تدوین
 
-**معمار الکترونیک صنعت / MEMAR ELECTRONIC SANAT (MES)**  
+**معمار الکترونیک صنعت / MEMAR ELECTRONIC SANAT (MES)**
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
 
 - [Telegram](https://t.me/Memar_Electronic)
 - [Instagram](https://www.instagram.com/Memar.Electronic)
 - [مشاهده سایر آموزش‌ها و پروژه‌ها در GitHub](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
